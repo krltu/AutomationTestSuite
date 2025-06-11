@@ -1,7 +1,7 @@
 # AutomationTestSuite
-#Prerequisites
-Visual Studio 2022
-.NET 8
+#Prerequisites:   
+   Visual Studio 2022  
+   .NET 8  
 #Instructions :
 1. Download the repository
 2. Open the solution (.sln file) in Visual Studio
